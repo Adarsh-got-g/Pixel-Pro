@@ -1,0 +1,6 @@
+{
+  "name": "AI PIXEL PRO - AI Photo Studio",
+  "description": "Official AI PIXEL PRO desktop application and brand identity system. Enhance, edit, restore, and upscale photos with next-gen AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
